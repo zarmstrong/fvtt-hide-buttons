@@ -1,7 +1,7 @@
 {
   "name": "hide-buttons",
   "title": "Hide Buttons",
-  "description": "A module that hides certain buttons. See readme for more into.",
+  "description": "A module that hides certain buttons. See readme for more info.",
   "author": "slate",
   "version": "1.0.0",
   "minimumCoreVersion": "0.7.6",
