@@ -3,9 +3,9 @@
   "title": "Hide Buttons",
   "description": "A module that hides certain buttons. See readme for more info.",
   "author": "slate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minimumCoreVersion": "0.7.6",
-  "compatibleCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.8.8",
   "scripts": [ 
         "slate-hide-buttons.js"
     ],
@@ -15,7 +15,7 @@
   "systems": ["pf2e"],
   "url": "https://github.com/zarmstrong/fvtt-hide-buttons",
   "manifest": "https://raw.githubusercontent.com/zarmstrong/fvtt-hide-buttons/main/module.json",
-  "download": "https://github.com/zarmstrong/fvtt-hide-buttons/releases/download/hide-buttons-1.0.1/hide-buttons-1.0.1.zip",
+  "download": "https://github.com/zarmstrong/fvtt-hide-buttons/releases/download/hide-buttons-1.0.2/hide-buttons-1.0.2.zip",
   "license": "MIT",
   "readme": "https://github.com/zarmstrong/fvtt-hide-buttons",
   "bugs": "https://github.com/zarmstrong/fvtt-hide-buttons/issues",
