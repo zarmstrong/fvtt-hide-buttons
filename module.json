@@ -19,5 +19,8 @@
   "license": "MIT",
   "readme": "https://github.com/zarmstrong/fvtt-hide-buttons",
   "bugs": "https://github.com/zarmstrong/fvtt-hide-buttons/issues",
-  "changelog": "https://github.com/zarmstrong/fvtt-hide-buttons/blob/main/CHANGELOG.md"  
+  "changelog": "https://github.com/zarmstrong/fvtt-hide-buttons/blob/main/CHANGELOG.md" ,
+  "flags": {
+    "allowBugReporter": true
+  },
 }
