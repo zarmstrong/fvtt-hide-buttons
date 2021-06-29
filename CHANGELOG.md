@@ -1,3 +1,7 @@
+## 1.0.2 (Jun 28, 2021)
+
+* No code changes, just upping the version to show compatability with 0.8.x
+
 ## 1.0.1 (Jan 10, 2021)
 
 * Actually works.
