@@ -5,7 +5,7 @@ A module that hides certain buttons.
 
 ## What's it do?
 
-Currently, this module hides the view modules button as well as teh active module count from users with role < 3 (assistant)
+Currently, this module hides the view modules button as well as the active module count from users with role < 3 (assistant)
 
 ## How to install
 
