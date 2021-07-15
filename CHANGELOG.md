@@ -1,3 +1,7 @@
+## 1.1.0 (Jul 15, 2021)
+
+* hides number of active modules
+
 ## 1.0.3 (Jul 15, 2021)
 
 * removed pf2e system requirement (why did I do that!?)

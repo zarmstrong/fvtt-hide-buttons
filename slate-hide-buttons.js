@@ -4,5 +4,6 @@ Hooks.on('renderSettings', async () => {
 		{
 			console.log(`%c Hide Buttons %c| Hiding view modules button`,'color: #aa0000','color: #ffffff');
 		    $("button[data-action=modules]").hide();
+		    $("li.modules").hide();
 		}
 	});
