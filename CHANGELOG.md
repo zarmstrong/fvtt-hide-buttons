@@ -1,3 +1,7 @@
+## 1.0.3 (Jul 15, 2021)
+
+* removed pf2e system requirement (why did I do that!?)
+
 ## 1.0.2 (Jun 28, 2021)
 
 * No code changes, just upping the version to show compatability with 0.8.x
