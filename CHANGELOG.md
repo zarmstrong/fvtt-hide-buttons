@@ -1,3 +1,7 @@
+## 1.1.1 (Jul 15, 2021)
+
+* forgot to update module.json to point to minified js. whoops
+
 ## 1.1.0 (Jul 15, 2021)
 
 * hides number of active modules
